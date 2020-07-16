@@ -6,6 +6,7 @@
 
 
 **About**
+
 I'm currently working on machine learning related tasks. I'm always looking to collaborate on interesting projects!
 
 Areas of Expertise:
