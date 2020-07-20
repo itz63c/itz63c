@@ -7,10 +7,8 @@
 
 **About**
 
-I'm currently working on machine learning related tasks. I'm always looking to collaborate on interesting projects!
+16 y/o
 
-Areas of Expertise:
+Professional cherry-picker
 
-- Software Engineering/Development (Python, Rust, Javascript, Ruby, Go, C)
-- Security minded
-- Machine Learning specializing in Deep Learning
+StatiXOS fajita device maintainer
