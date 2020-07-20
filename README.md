@@ -5,7 +5,7 @@
 </a>
 
 
-**About**
+**About Me**
 
 16 y/o
 
