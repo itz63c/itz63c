@@ -9,4 +9,4 @@
 
 16 y/o
 
-StatiXOS fajita device maintainer & pro cherry-picker
+OnePlus 6T maintainer @StatiXOS
