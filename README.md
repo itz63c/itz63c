@@ -9,4 +9,4 @@
 
 16 y/o
 
-OnePlus 6T maintainer @StatiXOS
+OnePlus 6T maintainer @ StatiXOS
