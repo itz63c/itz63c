@@ -1,16 +1,14 @@
-**Now Playing**
+![](https://github-readme-stats.vercel.app/api?username=itz63c&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula)
 
-<a href="https://skiman6010.vercel.app/now-playing?open">
-    <img src="https://skiman6010.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+
+**About Me**
+
+OnePlus 6T maintainer & cherry-picker @ StatiXOS, an Android Open Source Project
+https://github.com/StatiXOS
+
+
+**Now Playing on Spotify**
+
+<a href="https://itz63c.vercel.app/now-playing?open">
+    <img src="https://itz63c.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
-
-
-**About**
-
-I'm currently working on machine learning related tasks. I'm always looking to collaborate on interesting projects!
-
-Areas of Expertise:
-
-- Software Engineering/Development (Python, Rust, Javascript, Ruby, Go, C)
-- Security minded
-- Machine Learning specializing in Deep Learning
