@@ -3,7 +3,7 @@
 
 **About Me**
 
-OnePlus 6T maintainer & cherry-picker @ <a href="https://github.com/StatiXOS" target="_blank">StatiXOS</a>, an Android Open Source Project.
+Pixel 3a, OnePlus 6T maintainer & cherry-picker @ <a href="https://github.com/StatiXOS" target="_blank">StatiXOS</a>, an Android Open Source Project.
 
 **Now Playing on Spotify**
 
