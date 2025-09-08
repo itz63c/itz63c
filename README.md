@@ -1,9 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=itz63c&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula)
 
-
-**About Me**
-
-Pixel 3a, OnePlus 6T maintainer & cherry-picker @ <a href="https://github.com/StatiXOS" target="_blank">StatiXOS</a>, an Android Open Source Project.
+<a href="https://github.com/StatiXOS" target="_blank">StatiXOS</a>, an Android Open Source Project.
 
 **Now Playing on Spotify**
 
